@@ -4,7 +4,9 @@ This project demonstrate how we can use JavaScript Technologies to write a code 
 
 # To run the project in development server
 
- Create `.env` file and add the `DB_CONNECT` URI and scret key `TOKEN_SECRET`.
+1. git clone `https://github.com/Kuljeet-123/User-Authentication-JWT.git`
+
+2.  Create `.env` file and add the `DB_CONNECT` URI and scret key `TOKEN_SECRET`.
 
 ```
 > npm install
